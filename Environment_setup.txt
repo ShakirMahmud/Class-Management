@@ -1,0 +1,9 @@
+[Last Update: 15 January, 2023]
+
+At this moment, database is hosted in cloud. But this free access will be expired soon.
+Then we have to use our local database.
+
+To do this,
+
+1. First turn ON apache and mysql from XAMPP.
+2. 
